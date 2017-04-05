@@ -11,6 +11,8 @@ public class Main {
 		//begin the program.
 		userStates.start();
 		
+		System.out.println("Program has started.");
+		
 	}
 
 }
